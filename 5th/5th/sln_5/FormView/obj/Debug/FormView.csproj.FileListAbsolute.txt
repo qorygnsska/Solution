@@ -1,0 +1,12 @@
+D:\Solution\5th\sln_5\FormView\bin\Debug\FormView.exe.config
+D:\Solution\5th\sln_5\FormView\bin\Debug\FormView.exe
+D:\Solution\5th\sln_5\FormView\bin\Debug\FormView.pdb
+D:\Solution\5th\sln_5\FormView\obj\Debug\FormView.csproj.AssemblyReference.cache
+D:\Solution\5th\sln_5\FormView\obj\Debug\FormView.Form1.resources
+D:\Solution\5th\sln_5\FormView\obj\Debug\FormView.Form2.resources
+D:\Solution\5th\sln_5\FormView\obj\Debug\FormView.Form3.resources
+D:\Solution\5th\sln_5\FormView\obj\Debug\FormView.Properties.Resources.resources
+D:\Solution\5th\sln_5\FormView\obj\Debug\FormView.csproj.GenerateResource.cache
+D:\Solution\5th\sln_5\FormView\obj\Debug\FormView.csproj.CoreCompileInputs.cache
+D:\Solution\5th\sln_5\FormView\obj\Debug\FormView.exe
+D:\Solution\5th\sln_5\FormView\obj\Debug\FormView.pdb

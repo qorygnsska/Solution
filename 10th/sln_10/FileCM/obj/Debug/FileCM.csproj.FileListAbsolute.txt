@@ -1,0 +1,12 @@
+D:\3A_Study\10th\sln_10\FileCM\bin\Debug\FileCM.exe.config
+D:\3A_Study\10th\sln_10\FileCM\bin\Debug\FileCM.exe
+D:\3A_Study\10th\sln_10\FileCM\bin\Debug\FileCM.pdb
+D:\3A_Study\10th\sln_10\FileCM\obj\Debug\FileCM.csproj.AssemblyReference.cache
+D:\3A_Study\10th\sln_10\FileCM\obj\Debug\FileCM.csproj.SuggestedBindingRedirects.cache
+D:\3A_Study\10th\sln_10\FileCM\obj\Debug\FileCM.Form1.resources
+D:\3A_Study\10th\sln_10\FileCM\obj\Debug\FileCM.Form2.resources
+D:\3A_Study\10th\sln_10\FileCM\obj\Debug\FileCM.Properties.Resources.resources
+D:\3A_Study\10th\sln_10\FileCM\obj\Debug\FileCM.csproj.GenerateResource.cache
+D:\3A_Study\10th\sln_10\FileCM\obj\Debug\FileCM.csproj.CoreCompileInputs.cache
+D:\3A_Study\10th\sln_10\FileCM\obj\Debug\FileCM.exe
+D:\3A_Study\10th\sln_10\FileCM\obj\Debug\FileCM.pdb

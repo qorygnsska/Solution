@@ -1,0 +1,11 @@
+D:\3A_Study\9th\sln_9\FileView\bin\Debug\FileView.exe.config
+D:\3A_Study\9th\sln_9\FileView\bin\Debug\FileView.exe
+D:\3A_Study\9th\sln_9\FileView\bin\Debug\FileView.pdb
+D:\3A_Study\9th\sln_9\FileView\obj\Debug\FileView.csproj.AssemblyReference.cache
+D:\3A_Study\9th\sln_9\FileView\obj\Debug\FileView.csproj.SuggestedBindingRedirects.cache
+D:\3A_Study\9th\sln_9\FileView\obj\Debug\FileView.Form1.resources
+D:\3A_Study\9th\sln_9\FileView\obj\Debug\FileView.Properties.Resources.resources
+D:\3A_Study\9th\sln_9\FileView\obj\Debug\FileView.csproj.GenerateResource.cache
+D:\3A_Study\9th\sln_9\FileView\obj\Debug\FileView.csproj.CoreCompileInputs.cache
+D:\3A_Study\9th\sln_9\FileView\obj\Debug\FileView.exe
+D:\3A_Study\9th\sln_9\FileView\obj\Debug\FileView.pdb
